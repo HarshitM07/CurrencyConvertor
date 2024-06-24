@@ -1,4 +1,9 @@
 # currency_convertor
+This is a practice project which has helped me a lot to learn basic building blocks of UI in flutter. 
+
+So this is a very basic currency convertor app which takes the values in US Dollars and coverts it to Indian Rupees.
+#MovingForward
+
 
 A new Flutter project.
 
